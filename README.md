@@ -1,4 +1,5 @@
 # MLMC-PSCC2020
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3757332.svg)](https://doi.org/10.5281/zenodo.3757332)
 
 This code accompanies the paper *Accelerating System Adequacy Assessment using the Multilevel Monte Carlo Approach* by
 Simon Tindemans and Goran Strbac, accepted for publication at PSCC 2020 and a special issue of EPSR.
